@@ -96,19 +96,6 @@ function loadPage(page) {
             </div>
 
             <div class="card project-card">
-                <h3>Aplikasi Web Sederhana</h3>
-                <p>
-                    Aplikasi berbasis web untuk latihan logika
-                    dan JavaScript dasar.
-                </p>
-                <a href="http://127.0.0.1:5500/PWEB%20P%2016/latihan.html"
-                   target="_blank"
-                   class="project-link">
-                   Lihat Project
-                </a>
-            </div>
-
-            <div class="card project-card">
                 <h3>UI Design</h3>
                 <p>
                     Desain tampilan website dengan fokus
@@ -202,4 +189,5 @@ function toggleMenu() {
 
 /* DEFAULT PAGE */
 loadPage("home");
+
 
