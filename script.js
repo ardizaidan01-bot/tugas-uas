@@ -73,7 +73,7 @@ function loadPage(page) {
                     Website portfolio pribadi yang dibuat dengan
                     HTML, CSS, dan JavaScript.
                 </p>
-                <a href="http://127.0.0.1:5500/PWEB%20P%2019/Index.html
+                <a href="https://ardizaidan01-bot.github.io/P17/l"
 
 "
                    target="_blank"
@@ -88,7 +88,7 @@ function loadPage(page) {
                     Halaman promosi produk dengan desain modern
                     dan responsif.
                 </p>
-                <a href="http://127.0.0.1:5500/PWEB%20P%2017/Latihan.html"
+                <a href="https://ardizaidan01-bot.github.io/P10/"
                    target="_blank"
                    class="project-link">
                    Lihat Project
@@ -114,7 +114,7 @@ function loadPage(page) {
                     Desain tampilan website dengan fokus
                     pada kenyamanan pengguna.
                 </p>
-                <a href="http://127.0.0.1:5500/PWEB%20P%2010/Pendaftaran.html"
+                <a href="https://ardizaidan01-bot.github.io/P16/"
                    target="_blank"
                    class="project-link">
                    Lihat Design
@@ -202,3 +202,4 @@ function toggleMenu() {
 
 /* DEFAULT PAGE */
 loadPage("home");
+
